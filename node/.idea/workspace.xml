@@ -21,16 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nodeStuff.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nodeStuff.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,31 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="movies.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movies.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coreLessons.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="coreLessons.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coreLessons.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="food.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/food.txt">
+      <file leaf-file-name="expressLesson.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/expressLesson.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="207">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -112,6 +92,7 @@
         <option value="$PROJECT_DIR$/.idea/core.js" />
         <option value="$PROJECT_DIR$/.idea/coreLessons.js" />
         <option value="$PROJECT_DIR$/coreLessons.js" />
+        <option value="$PROJECT_DIR$/expressLesson.js" />
       </list>
     </option>
   </component>
@@ -121,8 +102,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="563" />
-    <option name="y" value="23" />
+    <option name="x" value="133" />
+    <option name="y" value="168" />
     <option name="width" value="1244" />
     <option name="height" value="699" />
   </component>
@@ -176,7 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HAML" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -184,10 +165,7 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="Node.js.coreLessons.js (1)">
-    <configuration default="false" name="you.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="you.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.expressLesson.js">
     <configuration default="false" name="me.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="me.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -198,6 +176,9 @@
       <method />
     </configuration>
     <configuration default="false" name="coreLessons.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="coreLessons.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="expressLesson.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="expressLesson.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -248,19 +229,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.you.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.me.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.core.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.coreLessons.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.coreLessons.js (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.me.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.core.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.coreLessons.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.coreLessons.js (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.expressLesson.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.coreLessons.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.coreLessons.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.core.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.me.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.you.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.expressLesson.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.coreLessons.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.coreLessons.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.core.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.me.js" />
       </list>
     </recent_temporary>
   </component>
@@ -274,15 +255,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460141023976</updated>
-      <workItem from="1460141025718" duration="8684000" />
+      <workItem from="1460141025718" duration="10663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8684000" />
+    <option name="totallyTimeSpent" value="10663000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="563" y="23" width="1244" height="699" extended-state="0" />
+    <frame x="133" y="168" width="1244" height="699" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12346689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -290,7 +271,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37349397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24938676" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -311,22 +292,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/me.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/you.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -380,7 +345,31 @@
     <entry file="file://$PROJECT_DIR$/coreLessons.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressLesson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding />
         </state>
       </provider>
