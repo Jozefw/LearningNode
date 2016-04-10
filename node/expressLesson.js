@@ -1,5 +1,8 @@
 var http = require('http');
+var fs = require('fs');
 
+
+// this handles the actual request
 function onRequest(request,response){
     console.log("User made a request " + request.url);
     // writeHead(statusCode,reason - as an object,obj) takes these 3 args
