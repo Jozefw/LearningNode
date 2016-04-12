@@ -22,9 +22,9 @@ product.save(function(err){
 });
 
 myApp.get("/", function(req, res){
-  Product.find(err, products){
+  Product.find(function(err, products){
         res.send(products);
-    }
+      })
 });
 
-myapp.listen(3002);
+myApp.listen(3002);
