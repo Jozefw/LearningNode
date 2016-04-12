@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jozefw/LearningNode/issues"
   },
-  "homepage": "https://github.com/Jozefw/LearningNode#readme"
+  "homepage": "https://github.com/Jozefw/LearningNode#readme",
+  "devDependencies": {
+    "mongoose": "^4.4.12"
+  }
 }
